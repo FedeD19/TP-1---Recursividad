@@ -47,7 +47,6 @@ mochila_luke = [
        "holocrón",
 ]
 analizar_mochila(mochila_luke)
-
 print()
 
 #Caso 2: el sable está al final
@@ -58,7 +57,6 @@ mochila_obi_wan = [
     "sable de luz",
 ]
 analizar_mochila(mochila_obi_wan)
-
 print()
 
 #Caso 3: no hay sable de luz
@@ -69,7 +67,6 @@ mochila_rey = [
     "cuerda",
 ]
 analizar_mochila(mochila_rey)
-
 print()
 
 #Caso 4: mochila vacía
