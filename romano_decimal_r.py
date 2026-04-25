@@ -29,7 +29,7 @@ def romano_decimal_r(romano, indice=0):
     #Último símbolo: siempre se suma
     return valor_actual
 
-#Casos de prueba
+#Casos de prueba (Generados por Claude)
 casos = [
         ("I",       1),
         ("IV",      4),
